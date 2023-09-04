@@ -1,0 +1,5 @@
+# internal JS modules
+/node_modules
+
+# internal JS modules
+package-lock.json
